@@ -36,7 +36,7 @@ ns7:byage3classes
 	skos:topConceptOf	ns1:breakdown-group ;
 	ns10:order	"2" ;
 	skos:altLabel	"Age (3 groups)" ;
-	skos:prefLabel	"Age (4 groups)" .
+	skos:prefLabel	"Age (3 groups)" .
 ns7:byage6classes
 	rdf:type	skos:Concept , ns9:BreakdownGroup ;
 	rdfs:seeAlso	ns11:ind_type ;
